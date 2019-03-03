@@ -83,6 +83,13 @@ project's **Settings**.
 
 Read more about [user/group Pages][userpages] and [project Pages][projpages].
 
+## Project name
+You'll need to set the correct base in docs/.vuepress/config.js.
+
+If you are deploying to https://<USERNAME or GROUP>.gitlab.io/, you can omit base as it defaults to "/".
+
+If you are deploying to https://<USERNAME or GROUP>.gitlab.io/<REPO>/, (i.e. your repository is at https://gitlab.com/<USERNAME>/<REPO>), set base to "/<REPO>/".
+
 ## Did you fork this project?
 
 If you forked this project for your own use, please go to your project's

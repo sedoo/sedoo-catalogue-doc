@@ -1,11 +1,11 @@
-![Build Status](https://gitlab.com/samdbeckham/vuepress-gl-pages/badges/master/build.svg)
+![Build Status](https://gitlab.com/pages/vuepress/badges/master/build.svg)
 
 ---
 
 Example [VuePress][project] website using GitLab Pages.
 
-Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation https://docs.gitlab.com/ce/user/project/pages/.
+Learn more about GitLab Pages at https://about.gitlab.com/product/pages and the official
+documentation https://docs.gitlab.com/ee/user/project/pages/.
 
 ---
 

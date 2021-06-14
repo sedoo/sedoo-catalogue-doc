@@ -2,6 +2,8 @@
 module.exports = {
     title: 'CATALOGUE AERIS',
     description: 'by Sedoo',
+    base: '/docs-aeris/',
+    dest: 'public',
     // markdown: {
     //     lineNumbers: true,
     //     toc: { includeLevel: [1] }

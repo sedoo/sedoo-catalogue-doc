@@ -2,7 +2,7 @@
 module.exports = {
     title: 'CATALOGUE AERIS',
     description: 'by Sedoo',
-    base: '/docs-aeris/',
+    base: '/sedoo-catalogue-doc/',
     dest: 'public',
     // markdown: {
     //     lineNumbers: true,

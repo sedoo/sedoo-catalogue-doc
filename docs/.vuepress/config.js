@@ -2,7 +2,7 @@
 module.exports = {
     title: 'CATALOGUE AERIS',
     description: 'by Sedoo',
-    base: '/docs-aeris/',
+    base: '/sedoo-catalogue-doc/',
     dest: 'public',
     // markdown: {
     //     lineNumbers: true,
@@ -125,7 +125,7 @@ module.exports = {
                 '',
                 ['keyword', 'Barre de recherche par mot-clés'],
                 ['treeview', 'CheckboxCriteria  '],
-                ['vuex-modules&helpers', 'Vuex : modules_helpers']
+                ['vuex-modules-helpers', 'Vuex : modules_helpers']
             ],
             // fallback
             '/': [

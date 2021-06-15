@@ -1,14 +1,14 @@
 {
-  "name": "vuepress-gl-pages",
+  "name": "sedoo-catalogue-doc",
   "version": "1.0.0",
-  "description": "A starter project for hosting VuePress sites on GitLab pages.",
+  "description": "A project for hosting Aeriscatalogue Documentation with VuePress sites on GitLab pages.",
   "main": "index.js",
-  "author": "samdbeckham",
+  "author": "Maxime A.",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:start": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "dependencies": {},
   "devDependencies": {
